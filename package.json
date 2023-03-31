@@ -1,0 +1,13 @@
+{
+    "name": "sapphire",
+    "version": "0.0.1",
+    "description": "ChangWon Sapa High School student information website",
+    "main": "index.js",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+  
